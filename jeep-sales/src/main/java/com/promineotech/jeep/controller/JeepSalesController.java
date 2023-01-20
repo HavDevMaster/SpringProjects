@@ -61,7 +61,7 @@ public interface JeepSalesController {
              required = false,
              description = "The trim level (i.e., 'sport')")
      }
-     )
+)
  
  @GetMapping 
  @ResponseStatus(code = HttpStatus.OK)
