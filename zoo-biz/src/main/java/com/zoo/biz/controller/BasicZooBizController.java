@@ -26,13 +26,13 @@ public class BasicZooBizController implements zooBizController {
     // TODO Auto-generated method stub
     return null;
   }
-
+*/
   @Override
   public Staff createStaff(String firstName, String lastName, String phone) {
     // TODO Auto-generated method stub
     return null;
   }
-
+/*
   @Override
   public void deleteEmployee(int deleteId) {
     // TODO Auto-generated method stub
@@ -44,8 +44,8 @@ public class BasicZooBizController implements zooBizController {
     // TODO Auto-generated method stub
     return null;
   }
-  */
-
+  
+*/
 
   @Override
   public List<Staff> fetchAllEmployees() {
@@ -53,13 +53,13 @@ public class BasicZooBizController implements zooBizController {
     return null;
   }
 
-
+/*
   @Override
-  public Staff createStaff(String firstName, String lastName, String phone) {
+  public Staff createStaff1(String firstName, String lastName, String phone) {
     // TODO Auto-generated method stub
     return null;
   }
-
+*/
 
   @Override
   public void deleteEmployee(int deleteId) {
@@ -73,4 +73,5 @@ public class BasicZooBizController implements zooBizController {
     // TODO Auto-generated method stub
     return null;
   }
+  
 }
